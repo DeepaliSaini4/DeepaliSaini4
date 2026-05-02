@@ -6,7 +6,7 @@ A passionate coder on a journey to craft the future, one commit at a time!
 -->
 
 ## About Me  
-🎓 I'm Deepali Saini, a **B.Tech (MCE)** student in my 3rd year at **DTU**.  
+🎓 I'm Deepali Saini, a **B.Tech (MCE)** student in my Final year at **DTU**.  
 💻 Currently building my skills to land a **Software Engineer (SWE)** role.  
 
 ## What I'm Working On  
